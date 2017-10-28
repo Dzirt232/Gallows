@@ -1,0 +1,27 @@
+--- !ruby/object:Game::Player
+name: Dzirt
+attempts: 1
+word:
+- u
+- n
+- e
+- a
+- r
+- t
+- h
+- l
+- y
+guessed_letters:
+- r
+- t
+- l
+- r
+wrong_letters:
+- d
+- w
+- s
+- q
+- s
+- s
+- k
+- m
